@@ -10,4 +10,4 @@ const TodoContainer = ({todos, setTodos}) => {
   );
 }
 
-export default App
+export default TodoContainer
