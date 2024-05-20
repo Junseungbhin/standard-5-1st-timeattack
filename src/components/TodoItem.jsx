@@ -1,3 +1,6 @@
+//흑흑 시간이 부족했어요
+import React from "react";
+
 const TodoItem = ({ todo, todos, setTodos }) => {
   const removeGoal = (id) => {
     setTodos(todos, filter((goal) => goal.id !== id));
